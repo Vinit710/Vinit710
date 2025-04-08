@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([Vinit Desai](https://www.linkedin.com/in/vinit-desai-314b2b25a/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([Vinit Desai](https://www.linkedin.com/in/vinit-desai-314b2b25a/))<br> 
 Portfolio(in making): https://venommmm.vercel.app/
 
 # 💻 Tech Stack:
